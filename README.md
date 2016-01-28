@@ -1,3 +1,4 @@
-The OpenShift `nodejs` cartridge documentation can be found at:
+# WebDevSpring2016
+Web development
+Coursework and assignments of Web Development
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
